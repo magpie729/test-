@@ -1,3 +1,4 @@
 # Git and Github Course
 
-Crash course for beginners
+Azure DevOps for beginners
+Let's begin!
